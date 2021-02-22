@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/JulianGR/JulianGR/main/gif_banner.gif)](https://github.com/JulianGR/JulianGR.github.io)<!-- If you want the template for my gif, email me! -->
+[![Header](https://raw.githubusercontent.com/JulianGR/JulianGR/main/gif_banner.gif)](https://juliangr.github.io/)
+<!-- If you want the template for my gif, email me! -->
 ![Profile views](https://gpvc.arturio.dev/JulianGR)
 
 
