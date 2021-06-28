@@ -4,7 +4,13 @@ sudo apt-get update
 sudo apt-get upgrade
 
 #basics
-sudo apt-get install -y git wget curl apt-transport-https software-properties-common ca-certificates gnupg lsb-release python3 python3-pip openjdk-8-jre vlc nomacs kate
+sudo apt-get install -y git wget curl apt-transport-https software-properties-common ca-certificates gnupg lsb-release python3 python3-pip openjdk-8-jre vlc nomacs kate p7zip-full nodejs npm flameshot build-essential python3-pip python3-dev python3-setuptools libusb-1.0-0-dev libudev-dev
+
+sudo snap install pycharm-community --classic
+sudo snap install discord
+
+sudo -H pip3 install --upgrade pip
+sudo -H pip3 install virtualenv rivalcfg jupyter
 
 
 #grub
@@ -18,6 +24,14 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o 
 echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 sudo apt-get update
 sudo apt-get install -y docker-ce docker-ce-cli containerd.io
+
+
+#chrome
+
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+sudo apt-get update 
+sudo apt-get install google-chrome-stable -y
 
 
 #spotify
@@ -48,10 +62,6 @@ gnome-shell-extension-installer 906
 gnome-shell-extension-installer 19
 
 
-#flameshot
-sudo apt-get install flameshot
-
-
 # zsh and powerlevel10k
 
 sudo apt install zsh -y
@@ -74,6 +84,7 @@ echo "+ Configure Settings"
 echo "+ Wallpaper"
 echo "+ Shortcut flameshot gui"
 echo "+ Import configs for Dash to Panel and Arc menu"
+echo "+ Init script, https://transang.me/create-startup-scripts-in-ubuntu/"
 echo "+ Finish shell:"
 echo "	(first install fonts)- https://github.com/romkatv/powerlevel10k"
 echo "	https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh"
