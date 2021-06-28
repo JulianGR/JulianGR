@@ -1,0 +1,11 @@
+[/]
+arc-menu-placement='DTP'
+available-placement=[false, true, false]
+distro-icon=5
+menu-button-icon='Distro_Icon'
+menu-hotkey='Super_L'
+menu-layout='Redmond'
+multi-monitor=true
+override-menu-button-color=false
+pinned-app-list=['Firefox Web Browser', '', 'firefox.desktop', 'Terminal', '', 'org.gnome.Terminal.desktop', 'ArcMenu Settings', 'ArcMenu_ArcMenuIcon', 'gnome-extensions prefs arcmenu@arcmenu.com']
+recently-installed-apps=['vlc.desktop', 'nomacs.desktop', 'flameshot.desktop', 'org.kde.kate.desktop']
