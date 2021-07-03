@@ -22,8 +22,9 @@
 
 [![Java](https://img.shields.io/badge/Java-ff6600?&style=for-the-badge&logo=Java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
 [![Python](https://img.shields.io/badge/Python-4584b6?&style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
-[![C++](https://img.shields.io/badge/C++-0077c8?&style=for-the-badge&logo=c%2b%2b&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?&style=for-the-badge&logo=JavaScript&logoColor=ddc508)](https://en.wikipedia.org/wiki/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-8892be?&style=for-the-badge&logo=PHP&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
+[![C++](https://img.shields.io/badge/C++-0077c8?&style=for-the-badge&logo=c%2b%2b&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 
 
@@ -31,7 +32,6 @@
 [![HTML5](https://img.shields.io/badge/html5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-000000?&logo=css3&style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![Sass](https://img.shields.io/badge/sass-da1884.svg?&style=for-the-badge&logo=sass&logoColor=white)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
-[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?&style=for-the-badge&logo=JavaScript&logoColor=ddc508)](https://en.wikipedia.org/wiki/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-511378.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Jekyll](https://img.shields.io/badge/Jekyll-f44321.svg?&style=for-the-badge&logo=jekyll&logoColor=white)](https://jekyllrb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-00758f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -52,11 +52,6 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285f4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white)](https://cloud.google.com/)
 
 
-#### Software development
-[![Git](https://img.shields.io/badge/git-fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white)](https://github.com/JulianGR)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-14acf2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&logoColor=white)](https://code.visualstudio.com/)
-[![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-49176d.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white)](https://www.eclipse.org/eclipseide/)
-
 ## Some Projects
 Some of my current projects:
 
@@ -66,4 +61,4 @@ Some of my current projects:
 
 ## Find me on
 
-<p><a href="https://github.com/JulianGR" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-333.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> <a href="https://open.spotify.com/user/4kbq13hu752g9rxke8c61mhk6?si=b266d5b84dbb47e4" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/spotify-1db954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>  <a href="https://stackoverflow.com/users/13023528/juliangr" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"/></a></p>
+<a href="https://open.spotify.com/user/4kbq13hu752g9rxke8c61mhk6?si=b266d5b84dbb47e4" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/spotify-1db954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>  <a href="https://stackoverflow.com/users/13023528/juliangr" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"/></a></p>
