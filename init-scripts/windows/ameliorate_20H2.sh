@@ -12,6 +12,7 @@ echo "║ This script only works on Ubuntu based distros.   ║"
 echo "║ An Ubuntu Live ISO is recommended.                ║"
 echo "╚═══════════════════════════════════════════════════╝"
 echo ""
+echo NOTE: PLACE THIS SCRIPT INTO THE ROOT DRIVE OF WINDOWS
 read -p "To continue press [ENTER], or Ctrl-C to exit"
 
 title_bar() {
@@ -36,6 +37,10 @@ if [ "" == "$PKG_OK" ]; then
 fi
 PKG_OK=$(dpkg-query -W --showformat='${Status}\n' p7zip-full|grep "install ok installed")
 echo "Checking for 7zip: $PKG_OK"
+sudo apt update
+sudo apt upgrade
+sudo add-apt-repository universe
+sudo apt update
 if [ "" == "$PKG_OK" ]; then
     echo "curl not found, prompting to install 7zip..."
     sudo apt-get -y install p7zip-full
