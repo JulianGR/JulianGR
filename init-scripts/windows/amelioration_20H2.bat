@@ -31,6 +31,8 @@ echo     This script gives you a list-style overview to execute many commands
 echo. 
 echo  :: NOTE: For Windows 10 Build 20H2 Only
 echo. 
+echo     NOTE: INSTALL 7ZIP AND ADD IT TO THE PATH
+echo     NOTE: INSTALL OFFICE AND ACTIVATE BOTH OFFICE AND WINDOWS 
 echo     1. Run Pre-Amelioration
 echo     2. Run Post-Amelioration
 echo     3. User Permissions
