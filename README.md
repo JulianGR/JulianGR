@@ -1,13 +1,12 @@
 [![Header](https://raw.githubusercontent.com/JulianGR/JulianGR/main/gif_banner.gif)](https://juliangr.github.io/)
 <!-- If you want the template for my gif, email me! -->
-![Profile views](https://gpvc.arturio.dev/JulianGR)
 
 
 ## What's up folks :v:
  
 - :round_pushpin: I'm from and also living in Sevilla, Spain. 
-- :mortar_board: Currenty studying Computer Science - **software engineering**
-- :lock: Cybersecurity professional wannabe
+- :mortar_board: Currenty studying MSc in Cybersecurity
+- :lock: Right now interested in ethical hacking 
 - :floppy_disk: My favorite programming language is **PHP**
 - :sunglasses: My pronouns are **he/ him/ his**
 - :musical_keyboard: Piano player
@@ -59,6 +58,3 @@ Some of my current projects:
 - :calling: [**My web**](https://github.com/JulianGR/JulianGR.github.io) - My personal website (ethernal Work in progress)
 
 
-## Find me on
-
-<a href="https://open.spotify.com/user/4kbq13hu752g9rxke8c61mhk6?si=b266d5b84dbb47e4" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/spotify-1db954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>  <a href="https://stackoverflow.com/users/13023528/juliangr" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"/></a></p>
