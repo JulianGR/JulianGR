@@ -4,7 +4,7 @@
 
 ## What's up folks :v:
  
-- :round_pushpin: I'm from and also living in Sevilla, Spain. 
+- :round_pushpin: Sevilla, Spain. 
 - :mortar_board: Currenty studying MSc in Cybersecurity
 - :lock: Right now interested in ethical hacking 
 - :floppy_disk: My favorite programming language is **PHP**
