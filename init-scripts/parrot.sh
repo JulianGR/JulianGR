@@ -33,9 +33,8 @@ cd
 # zsh: https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
 # https://askubuntu.com/questions/131823/how-to-make-zsh-the-default-shell
 #
-# openstego: https://github.com/syvaidya/openstego/releases 
-#
-# nessus
+# impacket
+# evil-winrm
 # docker: https://docs.docker.com/engine/install/debian/
 # crackmapexec
 # nishang
