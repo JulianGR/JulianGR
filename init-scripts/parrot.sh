@@ -17,7 +17,7 @@ echo \
 
 
 sudo apt-get update
-sudo apt-get install -y docker-ce docker-ce-cli containerd.io
+sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker.io
 
 # MATE terminal themes
 git clone https://github.com/HattDroid/MateTermColors
